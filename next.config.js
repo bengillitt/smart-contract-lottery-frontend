@@ -4,6 +4,5 @@ const nextConfig = {
 }
 
 module.exports = {
-    nextConfig,
-    exportTrailingSlash: true,
+    nextConfig
 }
